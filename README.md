@@ -4,4 +4,5 @@ python练习demo
 -------------------------------------------------
 
 * ImageToStr -- 图片转字符串文本
+* MysqlExample -- 操作mysql数据库
 
