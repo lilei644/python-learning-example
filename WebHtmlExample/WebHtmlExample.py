@@ -5,8 +5,7 @@ import re
 # 设置请求头
 # 更换一下爬虫的User-Agent，这是最常规的爬虫设置
 headers = {
-    "User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) '
-                  'Chrome/63.0.3239.132 Safari/537.36'}
+    "User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'}
 
 
 # 获取天气信息
